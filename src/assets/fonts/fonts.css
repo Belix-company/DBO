@@ -1,0 +1,44 @@
+@font-face{
+    font-family: "dewi-bold";
+    src: url(./fonts/RFDewiExpanded-Bold.ttf);
+}
+@font-face{
+    font-family: "dewi-black";
+    src: url(./fonts/RFDewiExpanded-Black.ttf);
+}
+@font-face{
+    font-family: "dewi-light";
+    src: url(./fonts/RFDewiExpanded-Light.ttf);
+}
+@font-face{
+    font-family: "dewi-thin";
+    src: url(./fonts/RFDewiExpanded-Thin.ttf);
+}
+@font-face{
+    font-family: "dewi-regular";
+    src: url(./fonts/RFDewiExpanded-Regular.ttf);
+}
+@font-face{
+    font-family: "roboto-regular";
+    src: url(./fonts/Roboto-Regular.ttf);
+}
+@font-face{
+    font-family: "roboto-black";
+    src: url(./fonts/Roboto-Black.ttf);
+}
+@font-face{
+    font-family: "roboto-bold";
+    src: url(./fonts/Roboto-Bold.ttf);
+}
+@font-face{
+    font-family: "roboto-light";
+    src: url(./fonts/Roboto-Light.ttf);
+}
+@font-face{
+    font-family: "roboto-thin";
+    src: url(./fonts/Roboto-Thin.ttf);
+}
+@font-face{
+    font-family: "roboto-medium";
+    src: url(./fonts/Roboto-Medium.ttf);
+}
